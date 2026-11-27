@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+.git/
+.env
+*.db
+users.json
+models/*.pkl
+data/
+training/
+qwen_service/ImmunoAI_Qwen25_7B_FineTuned/
+qwen_local/
+tests/
